@@ -1,13 +1,7 @@
 name: Initiatives
 source:
-  - title: Graduate Summer Student
-    place: University of Glasgow, UK
-    date: 2013
-    type: courses
-    description: Nec et duis iriure temporibus, ullum adolescens eam ea.
-
-  - title: Student Volunteer
-    place: British RedCross, Glasgow, UK
-    date: 2013
-    type: fundraiser
-    description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+  - title: Cloud Computing
+    place: Google Activate
+    date: 2021
+    type: certification
+    description: 9NJ V28 BFL -  https://learndigital.withgoogle.com/link/1nur091p2ww

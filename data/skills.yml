@@ -1,11 +1,16 @@
 name: Programming Skills
 title: Software engineering & web development
 source:
-  - name: [C/C++, Objective-C]
+  - name: [Java, Spring Boot, Quarkus, Activemq]
     stars: 5
-
-  - name: [Java, Python, PHP, Git]
+  - name: [Javascript,HTML/CSS3]
+    stars: 5
+  - name: [Nodejs,Angular,Ionic Capacitor,React Native,]
+    stars: 5
+  - name: [Git,]
+    stars: 5
+  - name: [SQL,NoSql]
     stars: 4
-
-  - name: [HTML/CSS3, Javascript]
+  - name: [Goland,Python]
     stars: 3
+
