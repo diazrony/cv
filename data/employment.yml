@@ -1,0 +1,11 @@
+name: Employment
+source:
+  - prof: Software Developer
+    place: Get Technologies
+    time: 2020 to Present
+    description: Leading developer of distributed systems which ensure code quality, stability and long-term scalability.
+
+  - prof: Operations assistant
+    place: 2link
+    time: 2018 to 2020
+    description: Responsible for ensuring that all companies affiliated with technology solutions operate efficiently by performing tasks such as creating local servers, customer service and database administrator.

@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-vitae"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://example.com/"
+googleAnalytics = ""
+
+[params]
+  author = "Rony Díaz"
+  title = "Rony Díaz Resume"
+  description = "Rony Díaz Awesome Resume"
+  avatar = "avatar_diazrony.jpg"
+  email = "ronydiaz99@gmail.com"
+  email_full = "mailto:ronydiaz99@gmail.com"
+  #website = "git.io/sustain"
+  website_full = "https://demo.nurlan.co/hugo-sustain/"
+  github = "diazrony"
+  twitter = "diazrony_"
+  tel = "+52 55 4001 3477"
+  tel_full = "+52 55 4001 3477"
+  #google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
+  #address = "CDMX"
+  #postcode = "EH3 5BL"
+  city = "CDMX"
+  country = "México"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
