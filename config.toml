@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-vitae"
 layoutdir = "layouts"
-publishdir = "public"
-baseurl = "http://example.com/"
+publishdir = "docs"
+baseurl = "https://diazrony.github.io/cv/"
 googleAnalytics = ""
 
 [params]
@@ -22,7 +22,7 @@ googleAnalytics = ""
   tel_full = "+52 55 4001 3477"
   #google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
   #address = "CDMX"
-  #postcode = "EH3 5BL"
+  # postcode = "EH3 5BL"
   city = "CDMX"
   country = "México"
 
